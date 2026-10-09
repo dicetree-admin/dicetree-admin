@@ -12,3 +12,6 @@ Small web projects and experiments from [dicetree.com](https://dicetree.com).
 - [BusStationSearch](https://github.com/dicetree-admin/BusStationSearch) — easy map and shop search
 - [facequiz-privacy](https://github.com/dicetree-admin/facequiz-privacy) — FaceQuiz privacy policy
 - [jesus](https://github.com/dicetree-admin/jesus)
+- [minitrack](https://github.com/dicetree-admin/minitrack) — ball tracking system
+- [excel2tab](https://github.com/dicetree-admin/excel2tab) — Excel to DB table loader
+- [csv2table](https://github.com/dicetree-admin/csv2table) — CSV to table creator
